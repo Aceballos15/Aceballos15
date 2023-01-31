@@ -62,4 +62,5 @@
 </p>                                                                                                                          
                                                                                                                           
 # Stats
-![Aceballos GitHub stats](https://github-readme-stats.vercel.app/api?username=Aceballos15&show_icons=true&theme=radical)
+![Aceballos GitHub stats](https://github-readme-stats.vercel.app/api?username=Aceballos15&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceballos15&show_icons=true&theme=radical)](https://github.com/aceballos15/github-readme-stats)
