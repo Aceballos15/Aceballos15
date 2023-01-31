@@ -30,7 +30,6 @@
  </a> 
 </p>  
   
----
 ### Bases de datos
                                                                                                                           
 <p align="left">
@@ -42,7 +41,7 @@
  </a>                                                                                                                              
 </p>
 
----
+
 ### Frontend y herramientas
 <p align="left">
  <a href="" target="_blank"> 
